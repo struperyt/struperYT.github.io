@@ -1,4 +1,8 @@
-body.main {
+.main-body {
   background-color: black;
-  background: url("../images/background-image.png") scroll no-repeat center;
+  margin: 0;
+}
+
+.main-div {
+  background: url("../images/background-image.png") scroll no-repeat center
 }
