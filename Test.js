@@ -1,1 +1,3 @@
-<script.js>
+if (true) {
+ console.log (FACTIONPVP);
+}
