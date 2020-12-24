@@ -1,4 +1,4 @@
 if (true) { 
- console.log ("FACTIONPVP");
+ console.log ("FACTIONPVP <br />");
 document.write("FACTIONPVP");
 }
