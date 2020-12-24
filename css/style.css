@@ -1,3 +1,4 @@
 body.main {
+  background-color: black;
   background: url("../images/background-image.png") scroll no-repeat center;
 }
