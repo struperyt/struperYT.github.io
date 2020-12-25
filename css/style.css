@@ -5,5 +5,5 @@
 }
 
 .main-div {
-  background: url("../images/background-image.png") scroll no-repeat center
+  background: url("../images/background-image.png") scroll no-repeat top center;
 }
