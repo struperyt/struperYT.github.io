@@ -9,5 +9,19 @@
 }
 
 #credits li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 2em;
+  margin: 0 15px;
+}
+
+#credits ul {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 16px;
+  background-color: rgba(100, 100, 100, 0.5);
 }
