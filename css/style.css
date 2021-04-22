@@ -1,11 +1,11 @@
 .main-body {
   background-color: black;
   /*margin: 1000; un peu douteux ça*/
-  height: 95vh;
 }
 
 .main-div {
   background: url("../images/background-image.png") scroll no-repeat top center;
+  height: 95vh;
 }
 
 #credits li {
